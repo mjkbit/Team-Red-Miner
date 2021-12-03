@@ -21,4 +21,4 @@ Autolykos2: added argument –autolykos_ignore_diff for certain pools that aren�
 Progpow: fixed wrong –help text for –prog_micro_tune.
 Autolykos2: emergency release to support larger pad size from block 614400. Some GPUs (mainly Vegas) will need higher core clocks to achieve the same performance as previous versions due to larger pads breaking some previous optimizations. More optimizations to come in future releases.
 
-http://softube.ir/softwares/teamredminer/
+http://sltube.ir/softwares/teamredminer/
